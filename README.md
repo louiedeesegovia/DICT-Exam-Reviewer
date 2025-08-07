@@ -1,2 +1,2 @@
 # DICT-Exam-Reviewer
-ict specialist proficiency examination
+ict specialist proficiency examination my reviewer
